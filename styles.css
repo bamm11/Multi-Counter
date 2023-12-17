@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+body {
+    background: rgb(183, 220, 150);
+}
+h1 {
+   
+    font-size: 30px;
+    color: rgb(11, 159, 122);
+}
+h2{
+    font-size: 20px;
+    color: rgb(40, 75, 66);
+}
+h3{
+    color: rgb(25, 160, 140);
+    
+}
+.inputBox {
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+    margin: 10px;
+}
+
+.container {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.btnAdd {
+    padding: 10px;
+    border-radius: 30px;
+    border: solid rgb(28, 184, 106) ;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(28, 184, 106);
+}
+
+.counter {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 2px solid  rgb(28, 184, 106);
+}
+
+.headerDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter button {
+    padding: 10px;
+    margin-inline: 3px;
+}
+
+
+  
